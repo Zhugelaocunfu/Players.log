@@ -1,0 +1,2486 @@
+Mono path[0] = 'E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'E:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4090 (ID=0x2684)
+    Vendor:   
+    VRAM:     24142 MB
+    Driver:   32.0.15.6094
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.073 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.654100 ms
+RimWorld 1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+More than one value for a same version of List`1 named modDependenciesByVersion 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: com.yayo.combat3. Ignoring the duplicates.
+E:\SteamLibrary\steamapps\workshop\content\294100\2038409475
+E:\SteamLibrary\steamapps\workshop\content\294100\2513695736 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod providers is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimJobWorld - Onahole Extension Defeat Patch dependency (rim.job.world.onahole.ext) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimNudeWorld chiseled bodies module dependency (shauaputa.rimnudeworld) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimVore2 Drinkable Piss dependency (MamaHorseteeth.RimVore2ExtraVores) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimVore2 Edible Scat dependency (Nabber.RimVore2) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW Ero Traders dependency (rim.job.world) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW Sexpanded ReProduction dependency (RJW.Sexpanded.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW_Unleashed_Bastard dependency (Vegapnk.rjw.genes) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW VE Highmate and Ideology patches Modified by Nil <packageId> (rjw.VE_patches) is not in valid format. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod SizedApparel-Milira dependency (OTYOTY.SizedApparel) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+More than one value for a same version of List`1 named modDependenciesByVersion 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: com.yayo.combat3. Ignoring the duplicates.
+E:\SteamLibrary\steamapps\workshop\content\294100\2038409475
+E:\SteamLibrary\steamapps\workshop\content\294100\2513695736 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001AC596C6440.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAD19FED0.dll
+Prepatcher: Starting... (vanilla load took 2.780761s) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Performance Fish!!! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Performance Fish finished applying prepatches in 1.4049094 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Game processing took 1714.2554ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Serializing patched assemblies 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Serializing took 1103.5635ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Setting refonly 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Loading patched assemblies 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACD97A7040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA461040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAF32E030.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAF2AC020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001AC5B906870.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFD0D010.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA680080.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA712E90.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFCE00A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAF406020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAF158020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFD5D020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFD8F630.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFD9E440.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001AC5BD9E020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFDA7050.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFDCF260.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA7AB0A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB655040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFDE8870.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAEFFAE30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA7FB6B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAF162A30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA7FCEC0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA84A2D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB77E040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA8564E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAF164240.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA85D8F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA860700.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAF40FA30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA868D10.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAD577FD0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA8C2320.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA8CF130.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA902D50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA90A360.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA90F370.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA915180.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA919390.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA9417A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAD57CFE0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA978DB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA97C9C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA9941D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA9BADE0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA9BCBF0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA9BE200.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA9BF810.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDA9CF220.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB8F2040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAA1B010.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAA1DC20.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAA34430.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAA52040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAA5C450.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001AC5C019C70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAA6C260.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAA71270.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACA7D6B9F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAF412C40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAA7C090.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAADA8A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAAF6AB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001AC5C021C90.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAB0B2D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAB0D6E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAB6E730.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAB71340.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAB76150.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAB7AF60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABAAF70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001AC5C0BD090.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABAD580.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABB1190.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001AC5C01DC80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABB41A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABB6DB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABBC7C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABBFFE0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABC17F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABC8E00.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABD5210.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABDD020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABF1430.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABF4840.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABF6250.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDABFF060.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAC11670.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAC1D880.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAC21490.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD198A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD1FAB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD284C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD2D8E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD2F0F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD3B700.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD3D510.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD41320.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD61D30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD66D40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD6CD50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD75D60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFC810A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD96E20.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDADC20A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDADD20F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDADD8100.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDADE3910.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDADE8320.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDADEEB30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE12B40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE21B50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE2DB60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE2FD70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE36D80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE40D90.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE46DA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE8E010.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE95E20.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAE9EE30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEA4E50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFCDD890.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEA9260.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEAAE70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFC890E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEAC080.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEAE690.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEAF8A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEB42B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEB6CC0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEBA4D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEBBAE0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEBCCF0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFC7B070.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEC0300.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEC8120.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAED2F40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAED4B50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACA7D70A30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAED6760.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACA7D73250.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAED9370.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEDEB80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEE3F90.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEED7A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAEF4FB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAF1D9C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAF315E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFC8B0F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAF3C000.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001AC5C0C6120.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAF47A10.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAF58630.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAFE7040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAFEDE50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAFFAC60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB006670.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB008C80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB00A490.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB00F8A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB0110B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB01F6C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB02A2D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB03EAE0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB040CF0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB042500.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB04A510.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB053320.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB069F30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB06E550.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB08B170.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB09A380.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB09C790.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB0AADA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB0AD5C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB0D3FD0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB11D1E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB1419F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB187600.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB19D410.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB1A5420.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB1A8E30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB1BFC40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB1E8850.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB1EEE60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB1F6070.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB1FA280.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDAD8EE00.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB201290.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB21D2B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2244C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFCE50C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB269010.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFCE78D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB26AA20.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB26C830.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB26E040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB26F650.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB276E60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB280070.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB289280.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB290890.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB29DEC0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2A6ED0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2AA8E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2ADEF0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2B1300.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2B8F10.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2BD320.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFCEA0E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2C67C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2E3010.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2E9C20.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB3452F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB352A50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB39DC60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB3A8A70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB3AB480.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB3AEA90.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB3C0EB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB3C2AC0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB33AA80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2C9DF0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB3C6CD0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB476CE0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB47AAF0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB499500.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB49EF10.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB4A1120.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB4C4B30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFCE28B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB4CED40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB4D1D50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB4F1570.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB505F80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB543DA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB54BFB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB54FBC0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACA7D6CE00.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB5609D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB56F3E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB5715F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB573200.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB58FA10.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2C1F80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACA7D76E80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB5BDA20.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB2C8BE0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB5C2C30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB3422D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB5CCC40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB5CF250.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB33DAA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB604260.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB33F2B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB606670.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB60B090.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACAFC830B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB60E6A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB60FCB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB6116C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB617EE0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDBA00080.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACDB61F0F0.dll
+Prepatcher: Done loading 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimWorld 1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+More than one value for a same version of List`1 named modDependenciesByVersion 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: com.yayo.combat3. Ignoring the duplicates.
+E:\SteamLibrary\steamapps\workshop\content\294100\2038409475
+E:\SteamLibrary\steamapps\workshop\content\294100\2513695736 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod providers is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimJobWorld - Onahole Extension Defeat Patch dependency (rim.job.world.onahole.ext) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimNudeWorld chiseled bodies module dependency (shauaputa.rimnudeworld) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimVore2 Drinkable Piss dependency (MamaHorseteeth.RimVore2ExtraVores) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimVore2 Edible Scat dependency (Nabber.RimVore2) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW Ero Traders dependency (rim.job.world) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW Sexpanded ReProduction dependency (RJW.Sexpanded.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW_Unleashed_Bastard dependency (Vegapnk.rjw.genes) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW VE Highmate and Ideology patches Modified by Nil <packageId> (rjw.VE_patches) is not in valid format. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod SizedApparel-Milira dependency (OTYOTY.SizedApparel) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+More than one value for a same version of List`1 named modDependenciesByVersion 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: com.yayo.combat3. Ignoring the duplicates.
+E:\SteamLibrary\steamapps\workshop\content\294100\2038409475
+E:\SteamLibrary\steamapps\workshop\content\294100\2513695736 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACE5B10A40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACE60560A0.dll
+Prepatcher: Restarted with the patched assembly, going silent. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] version 11.0.4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+patched 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Harmony_GenRadial_RadialPatternCount :: Info: Post GenRadial patch maximum radius: 119.4194 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE: Loading Mod Part 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[VehicleAutoParking] Harmony patches have been applied successfully. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Replimat :: Humanoid Alien Races detected! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Replimat :: Dubs Bad Hygiene detected! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACED09D030.dll
+Error while instantiating a mod of type HugsLibChecker.HugsLibChecker: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.MissingMethodException: void Verse.Log.Error(string,bool)
+[Ref 942D6A29]
+ at <0x1acdcc67250 + 0x0003a> <unknown method>
+ at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+ at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+   --- End of inner exception stack trace ---
+[Ref DABBB020]
+ at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at Verse.LoadedModManager.CreateModClasses () [0x0007e] in <69945a8ed6c540cf90b578de735e0605>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACED00C010.dll
+[1.3]Graphics Setter - Loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Project RimFactory Core 1.0.0.0 - Harmony patches successful 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Facial animation active, but there is no revia facial animation. There will be default 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Settings applied 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimSaves NX 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Interaction Bubbles v3.1] Initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[StorageRefillHysteresis 0.1.6] Mod Loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACED56E020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACED586A60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACED591A70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACED59EA80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001ACED5A6290.dll
+GAGARIN: <color=green>StartUpStarted called!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ReSplice: Charmweavers 1.1-Lurelings-rev5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=yello>Cache disabled from</color>
+Gagarin.LoadedModManager_Patch+LoadModXML_Patch:Postfix():0
+MonoMod.Utils.DynamicMethodDefinition:Verse.LoadedModManager.LoadModXML_Patch5():0
+Verse.LoadedModManager:LoadAllActiveMods():0
+Verse.PlayDataLoader:DoPlayLoad():0
+Verse.PlayDataLoader:LoadAllPlayData():0
+Verse.Root+<>c:<Start>b__6_1():0
+Verse.LongEventHandler:RunEventFromAnotherThread():0
+Verse.LongEventHandler+<>c:<UpdateCurrentAsynchronousEvent>b__28_0():0
+System.Threading.ThreadHelper:ThreadStart_Context():0
+System.Threading.ExecutionContext:RunInternal():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ThreadHelper:ThreadStart():0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: Total number of files changed. Reseting cache 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>2.854</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>1.998</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.004</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def = "Neck"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Neck"]/parts/li[def = "Head"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Neck"]/parts/li[def = "Head"]/parts/li[def="Jaw"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Neck"]/parts/li[def = "Head"]/parts/li[def="Nose"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Neck"]/parts/li[def = "Head"]/parts/li[def="Ear"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def = "Shoulder"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Shoulder"]/parts/li[def = "Arm"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Shoulder"]/parts/li[def = "Arm"]/parts/li[def = "Hand"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Shoulder"]/parts/li[def = "Arm"]/parts/li[def = "Hand"]/parts/li[def = "Finger"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def = "Leg"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Leg"]/parts/li[def = "Foot"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Leg"]/parts/li[def = "Foot"]/parts/li[def = "Toe"]/groups"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[[Alien/Race] Seren, from Stardust - Start of stack trace]
+Verse.PatchOperationRemove(xpath="Defs/AlienRace.ThingDef_AlienRace[defName="Seren"]/alienRace/generalSettings/alienPartGenerator/bodyAddons/li[1]/hiddenUnderApparelFor"): Failed to find a node with the given xpath
+Verse.PatchOperationSequence: Error in the operation at position=1
+Verse.PatchOperationFindMod(Hats Display Selection): Error in <match>
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\workshop\content\294100\2704627783\1.5\Patches\Ears Unhidden Patch.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW Extra Race Patchs - Start of stack trace]
+Verse.PatchOperationAdd(xpath="/Defs/rjw.HediffDef_PartBase[defName="Fox_Couchie"]"): Failed to find a node with the given xpath
+Verse.PatchOperationFindMod(RJW Menstruation Cycle): Error in <match>
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: E:\SteamLibrary\steamapps\common\RimWorld\Mods\rjw-extra-patchs\Patches\MenstruationPartCompat.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>36.029</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.507</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <showOnColonistBar>true</showOnColonistBar> doesn't correspond to any field in type MutantDef. Context: <MutantDef><defName>Ghoul_DP2Unofficial</defName><label>ghoul</label><description>A person who has been turned into a ghoul.\n\nAbout ghouls: Ghouls are engineered murder machines, twisted by dark psychic influences.\n\nGhouls are very dangerous in melee combat. However, the process of their creation leaves them incapable of higher levels of thought, preventing them from holding weapons or tools. They cannot work and outside combat they wander in a half-conscious stupor.\n\nMany people find the constant twitching of ghouls disturbing. More disturbing is their dependence on raw meat. If they go hungry they will turn hostile, even attacking their creators to sate their hunger.</description><hediff>Ghoul</hediff><thinkTree>Ghoul</thinkTree><thinkTreeConstant>GhoulConstant</thinkTreeConstant><showLabel>true</showLabel><canBleed>false</canBleed><isImmuneToInfections>true</isImmuneToInfections><showJobReport>true</showJobReport><canWearApparel>false</canWearApparel><canBeDrafted>true</canBeDrafted><canLearn>true</canLearn><relativeTurnedThought>BecameGhoul</relativeTurnedThought><showOnColonistBar>true</showOnColonistBar><canTravelInCaravan>true</canTravelInCaravan><respectsAllowedArea>true</respectsAllowedArea><hasHostilityResponse>true</hasHostilityResponse><allowedDevelopmentalStages>Adult</allowedDevelopmentalStages><enabledNeeds><li>Food</li></enabledNeeds><foodType>CarnivoreAnimalStrict</foodType><allowEatingCorpses>true</allowEatingCorpses><deathOnDownedChance>0.25</deathOnDownedChance><removeChronicIllnesses>true</removeChronicIllnesses><removePermanentInjuries>true</removePermanentInjuries><removeAddictions>true</removeAddictions><canUseDrugs>true</canUseDrugs><drugWhitelist><li>VoidsightSerum</li><li>MetalbloodSerum</li><li>JuggernautSerum</li><li>MindNumbSerum</li><li>GhoulResurrectionSerum</li></drugWhitelist><anomalyKnowledgeOffset>0.5</anomalyKnowledgeOffset><knowledgeCategory>Basic</knowledgeCategory><codexEntry>Ghoul</codexEntry><givesHediffs><li><def>Regeneration</def><severity>0.1</severity></li></givesHediffs><removesHediffs><li>LuciferiumHigh</li><li>CorpseTorment</li><li>CubeInterest</li><li>CubeWithdrawal</li><li>CubeComa</li><li>CubeRage</li><li>HeartAttack</li><li MayRequire="Ludeon.RimWorld.Royalty">PsychicAmplifier</li><li MayRequire="Ludeon.RimWorld.Biotech">MechlinkImplant</li><li MayRequire="Ludeon.RimWorld.Biotech">PregnantHuman</li><li MayRequire="Ludeon.RimWorld.Biotech">PregnancyLabor</li><li MayRequire="Ludeon.RimWorld.Biotech">HemogenAmplified</li><li MayRequire="Ludeon.RimWorld.Biotech">DeathrestExhaustion</li><li MayRequire="Ludeon.RimWorld.Biotech">InterruptedDeathrest</li><li MayRequire="Ludeon.RimWorld.Biotech">HemogenCraving</li><li MayRequire="Ludeon.RimWorld.Biotech">Deathrest</li><li MayRequire="Ludeon.RimWorld.Biotech">RegenerationComa</li><li MayRequire="Ludeon.RimWorld.Biotech">PostpartumExhaustion</li><li>Inhumanized</li></removesHediffs><disablesGenes><li MayRequire="Ludeon.RimWorld.Biotech">Hemogenic</li><li MayRequire="Ludeon.RimWorld.Biotech">Deathrest</li><li MayRequire="Ludeon.RimWorld.Biotech">Furskin</li></disablesGenes><abilityWhitelist><li>GhoulFrenzy</li><li>CorrosiveSpray</li><li>MetalbloodInjection</li></abilityWhitelist><producesBioferrite>true</producesBioferrite><deathLetter>One of your ghouls has died.</deathLetter><deathLetterExtra>Unlike regular colonists, ghouls do not need to be buried and their death will not upset others. You may choose to bury them should you wish.</deathLetterExtra><soundCall>Pawn_Ghoul_Call</soundCall><soundAttack>Pawn_Ghoul_Attack</soundAttack><soundWounded>Pawn_Ghoul_Pain</soundWounded><soundDeath>Pawn_Ghoul_Killed</soundDeath><skinColorOverride>(0.58, 0.62, 0.55)</skinColorOverride><hairColorOverride>(0.65, 0.65, 0.65)</hairColorOverride><bodyTypeGraphicPaths><Male>Things_DP2Unofficial/Dragonian/Bodies/Naked_Male</Male><Female>Things_DP2Unofficial/Dragonian/Bodies/Naked_Female</Female></bodyTypeGraphicPaths><forcedHeadTypes><li>Male_AverageNormal</li><li>Female_AverageNormal</li></forcedHeadTypes><hairTagFilter><whitelist>true</whitelist><tags><li>Ghoul</li></tags></hairTagFilter><beardTagFilter><whitelist>true</whitelist><tags><li>NoBeard</li></tags></beardTagFilter><tools><li Class="CombatExtended.ToolCE"><label>teeth</label><capacities><li>FlameBite_DP2Unofficial</li></capacities><power>1.8</power><cooldownTime>0.26</cooldownTime><chanceFactor>0.66</chanceFactor><linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup><armorPenetrationSharp>32.00</armorPenetrationSharp><armorPenetrationBlunt>194.40</armorPenetrationBlunt><surpriseAttack><extraMeleeDamages><li><def>Bite</def><amount>14</amount></li></extraMeleeDamages></surpriseAttack></li><li Class="CombatExtended.ToolCE"><label>horn</label><capacities><li>Blunt</li></capacities><power>2.0</power><cooldownTime>0.3</cooldownTime><linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup><chanceFactor>0.66</chanceFactor><armorPenetrationSharp>35.20</armorPenetrationSharp><armorPenetrationBlunt>162.00</armorPenetrationBlunt><surpriseAttack><extraMeleeDamages><li><def>Stun</def><amount>25</amount></li></extraMeleeDamages></surpriseAttack></li><li Class="CombatExtended.ToolCE"><label>left fist</label><capacities><li>Scratch</li></capacities><power>1.8</power><cooldownTime>0.2</cooldownTime><linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup><armorPenetrationSharp>25.60</armorPenetrationSharp><armorPenetrationBlunt>129.60</armorPenetrationBlunt><surpriseAttack><extraMeleeDamages><li><def>Scratch</def><amount>15</amount></li></extraMeleeDamages></surpriseAttack></li><li Class="CombatExtended.ToolCE"><label>right fist</label><capacities><li>Scratch</li></capacities><power>1.8</power><cooldownTime>0.2</cooldownTime><linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup><armorPenetrationSharp>25.60</armorPenetrationSharp><armorPenetrationBlunt>129.60</armorPenetrationBlunt><surpriseAttack><extraMeleeDamages><li><def>Scratch</def><amount>15</amount></li></extraMeleeDamages></surpriseAttack></li><li Class="CombatExtended.ToolCE"><label>tail</label><capacities><li>Blunt</li></capacities><power>2.0</power><cooldownTime>0.3</cooldownTime><linkedBodyPartsGroup>Tail_DP2Unofficial</linkedBodyPartsGroup><armorPenetrationSharp>25.60</armorPenetrationSharp><armorPenetrationBlunt>259.20</armorPenetrationBlunt><surpriseAttack><extraMeleeDamages><li><def>Stun</def><amount>15</amount></li></extraMeleeDamages></surpriseAttack></li></tools><hediffGivers><li Class="HediffGiver_MeatHunger"><hediff>MeatHunger</hediff></li></hediffGivers></MutantDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] Ghoul_DP2Unofficial:Dragonian Prime Race2.0 (Unofficial)\1.5Anomaly\Defs\Misc\Mutants.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type DamageDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type MaruTrap.MaruTrapDamageDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type RulePackDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type MaruTrap.MaruTrapDamageDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] Trap_MRB:Maru Race\1.5\Defs\Weapon\MaruTrap.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.01 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] HAR_NM_Weapon_Gun_b:[Aya]Nearmare Race\1.5\Defs\WeaponDefs\Weapon_Gun.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MYDE_AerocraftFramework.WorkGiver_ReloadTurret 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] MYDE_AF_CE_ReloadTurrets:Aerocraft Framework\1.5\CombatExtended\Defs\Job.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MYDE_AerocraftFramework.JobDriver_ReloadTurret 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] MYDE_AF_CE_ReloadTurret:Aerocraft Framework\1.5\CombatExtended\Defs\Job.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 2.3 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RT_Weapon_GSH302_AutoCannon:RimThunder - Gruppa Krovi\1.5\Defs\Aircraft Weapon.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 4.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RT_Weapon_YAKB_MachineGun:RimThunder - Gruppa Krovi\1.5\Defs\Aircraft Weapon.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] HAR_QL_Weapon_b:[Aya]Qualeela Race\1.5\Defs\WeaponDefs\WeaponDef.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] HAR_Saclean:[Aya]Saclean Race\1.5\Defs\RaceDefs\Race_NR.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] Weapon_Requeen_Bullet_e:[Aya]Requeen Boss\1.5\Defs\WeaponDefs\Requeen_Weapon.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Ears:[RH2] Rimmu-Nation² - Clothing\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Neck:[RH2] Rimmu-Nation² - Clothing\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Jaw:[RH2] Rimmu-Nation² - Clothing\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>1 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>15.634</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def = "Neck"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Neck"]/parts/li[def = "Head"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Neck"]/parts/li[def = "Head"]/parts/li[def="Jaw"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Neck"]/parts/li[def = "Head"]/parts/li[def="Nose"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Neck"]/parts/li[def = "Head"]/parts/li[def="Ear"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def = "Shoulder"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Shoulder"]/parts/li[def = "Arm"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Shoulder"]/parts/li[def = "Arm"]/parts/li[def = "Hand"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Shoulder"]/parts/li[def = "Arm"]/parts/li[def = "Hand"]/parts/li[def = "Finger"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def = "Leg"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Leg"]/parts/li[def = "Foot"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Combat Extended] Patch operation Verse.PatchOperationAdd(Defs/BodyDef[defName = "Seren_Body"]/corePart/parts/li[def="Leg"]/parts/li[def = "Foot"]/parts/li[def = "Toe"]/groups) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2890901044\ModPatches\Seren from Stardust\Patches\Seren from Stardust\Bodies_Seren.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[[Alien/Race] Seren, from Stardust] Patch operation Verse.PatchOperationFindMod(Hats Display Selection, [KV] Show Hair With Hats or Hide All Hats, Appearance clothes) failed
+file: E:\SteamLibrary\steamapps\workshop\content\294100\2704627783\1.5\Patches\Ears Unhidden Patch.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW Extra Race Patchs] Patch operation Verse.PatchOperationFindMod(RJW Menstruation Cycle) failed
+file: E:\SteamLibrary\steamapps\common\RimWorld\Mods\rjw-extra-patchs\Patches\MenstruationPartCompat.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0.002</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named MR_PulseT found to give to Verse.SkyfallerProperties Verse.SkyfallerProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named HSI_Hitsound found to give to PawnKnockback.DamageKnockbackDef MR_ChainDamageDefA (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named MeleeHit_Wood_Sharp found to give to Verse.StuffProperties Verse.StuffProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named MeleeHit_Wood_Blunt found to give to Verse.StuffProperties Verse.StuffProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named null found to give to Verse.DamageDef BOSS_RQ_Damage_Z_e (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named None found to give to Rimworld_Animations.ExtendedKeyframe Rimworld_Animations.ExtendedKeyframe (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DBH_WaterBottle (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DBH_WaterBottle (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DBH_WaterBottle (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DBH_WaterBottle (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DBH_WaterBottle (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DBH_WaterBottle (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MadSkills]: changed behavior of Great Memory trait. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: OpenStatusWindow and Designator_RotateLeft are both bound to Q. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.507</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef Pirate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef Pirate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef Empire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef CannibalPirate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef CannibalPirate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef PirateYttakin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef PirateYttakin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef PirateWaster 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef PirateWaster 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef Cradle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef Cradle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef ReviaMarauderFaction 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef ReviaMarauderFaction 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef Idhale_Faction_NPC_b 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef Idhale_Faction_NPC_b 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding settlement pawngroupmaker to FactionDef Idhale_Faction_NPC_b 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef Xenoorca_Faction_NPC 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef Xenoorca_Faction_NPC 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Collection cannot init: No textures found at path Ammo/M3E1/HEAT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Collection cannot init: No textures found at path Ammo/M3E1/HE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.507</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language Traditional Chinese has 1642 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Big and Small]: Found 83 AlienRace.ThingDef_AlienRace ThingDefs.
+These are either from HAR races or B&S races automatically converted for compatibility. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XML Extensions] Initialized 9 SettingsMenuDef(s) and found 0 unused key(s) from 0 mod(s) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XML Extensions] 9216 total patches run in 35610ms, 15 failed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Alien race successfully completed 254 patches with harmony. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Ammo injected 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE successfully patched 19 animals.
+Animal Defs autopatched:HAR_NM_M_KUT
+HAR_NM_TES_a
+HAR_NM_M_KZU
+HAR_NM_M_XXX
+HAR_EL_Monster_a
+HAR_EL_Monster_b
+HAR_EL_Monster_c
+HAR_IA_M_Race_a
+HAR_IH_NPC_Race_a
+HAR_IH_NPC_Race_b
+HAR_NC_M_y_race_NPC
+HAR_NC_M_z_race_NPC
+HAR_QL_M_Race_a
+HAR_QL_M_Race_b
+HAR_QL_M_Race_c
+HAR_QL_M_Race_d
+HAR_QL_M_Race_e
+HAR_SK_race_Cat
+BOSS_RQ_Monster_race_Summon_z
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE successfully patched 22 humanoid alien races 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>Combat Extended</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>Geological Landforms</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load UnityEngine.Texture2D at SmashTools/VideoSkipToNext in any active mod or in base resources. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[VehicleFramework]</color> version 1.5.1704 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CMColorCodedMoodBar] CMColorCodedMoodBar 1.5.4062.1 initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Fortification Industrial - Citadel contains 1 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Damage Indicators initialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Biotech Expansion - Core Loaded! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[GeneTools] Transpiling Pawn_StoryTracker.ExposeData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[GeneTools] Transpile success. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[GeneTools] Detected HAR! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[GeneTools] Active. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Expectations Modifier] Expectations Modifier Harmony Patches Loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TrueTerrainColors v1.12.17] Loaded cached true colors for 418 terrain defs from file. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MoharFW.MoharGfx patched Mote.SpawnSetup successfully. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MoharFW OHFP - CompEggLayer_Patch applied 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MoharFW YAHA - successfuly completed 7 harmony patches.  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Initializing RPG_Style_Level_Up_Mod_patches... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ApplyBirthOutcomeTranspiler called 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wall Light: v1.5.8874.26767 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Walls are Solid - transpiler patched successfully. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BPRF initialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: start 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: RimJobWorld Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: RimJobWorld Patched 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: RimNudeWorld Patch canceled 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Dubs Apparel Tweaks Patch canceled 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Transmog Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Transmog patched 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Loaded asset from assetBundle: assets/sashader.shader 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Custom/SAShader (UnityEngine.Shader) is supported: True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ApplyBirthOutcomeTranspiler called 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] [StaticConstructorOnStartup] Added 1 rule to PartPreferenceDetectorService._partKindUsageRules 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Cumpilation] Cumpilation Loaded - Let's go you cumsluts 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW-Genes] RJW-Genes loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+HediffApparel Harmony Patches:
+  Postfix:
+    Pawn_ApparelTracker.Notify_ApparelAdded
+    Pawn_ApparelTracker.Notify_ApparelRemoved 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>StartUpFinished called!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Geological Landforms v1.7] Found landform data in the following mods: Geological Landforms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Geological Landforms v1.7] Loaded 44 landforms of which 0 are edited and 0 are custom. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MVCF successfully applied 35 patches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BEP.RJWOELP] Patches on methods annotated as Obsolete were detected by HugsLib: RJW_Onahole.Building_OnaholeBed.IsAllowed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.5.10 initializing... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+updating labels for traditional chinese... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+loading pawn slot content from file... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+character editor instance created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+bodysizes genes are active 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.5.10 ...done 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Ammo injected 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception from long event: System.Exception: BOSS_RQ_Monster_Kind_Summon_h.lifeStages[0].bodyGraphicData ---> System.Exception: BoundMap(,) ---> System.Exception: Combat Extended :: CropVertical error while cropping Textures/Monster/RQ_Monster_h_side ---> System.ArgumentException: Color[] has no pixels with alpha < 0.25
+[Ref 551D0A9F]
+ at CombatExtended.Def_Extensions.CropVertical (UnityEngine.Color[] array, System.Int32 width, System.Int32 height) [0x00051] in <d4f808b7eac94548b83685e1520170fc>:0 
+ at CombatExtended.BoundsInjector.ExtractBounds (Verse.Graphic graphic, CombatExtended.BoundsInjector+GraphicType type) [0x0003c] in <d4f808b7eac94548b83685e1520170fc>:0 
+   --- End of inner exception stack trace ---
+[Ref EF80C482]
+ at CombatExtended.BoundsInjector.ExtractBounds (Verse.Graphic graphic, CombatExtended.BoundsInjector+GraphicType type) [0x00066] in <d4f808b7eac94548b83685e1520170fc>:0 
+ at CombatExtended.BoundsInjector.BoundMap (Verse.Graphic graphic, CombatExtended.BoundsInjector+GraphicType type) [0x0001e] in <d4f808b7eac94548b83685e1520170fc>:0 
+   --- End of inner exception stack trace ---
+[Ref 8D0491A]
+ at CombatExtended.BoundsInjector.BoundMap (Verse.Graphic graphic, CombatExtended.BoundsInjector+GraphicType type) [0x0004b] in <d4f808b7eac94548b83685e1520170fc>:0 
+ at CombatExtended.BoundsInjector.Inject () [0x00083] in <d4f808b7eac94548b83685e1520170fc>:0 
+   --- End of inner exception stack trace ---
+[Ref 42005226]
+ at CombatExtended.BoundsInjector.Inject () [0x000bb] in <d4f808b7eac94548b83685e1520170fc>:0 
+ at Verse.LongEventHandler.UpdateCurrentSynchronousEvent (System.Boolean& sceneChanged) [0x0001d] in <69945a8ed6c540cf90b578de735e0605>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Checking Vehicle Framework 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Installing Vehicle Framework 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Vanilla Psycasts Expanded loaded: True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Checking SOS2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Checking Misc Turrets 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Checking SRTS Expanded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Checking Better Turrets 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Checking Multiplayer Compat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] initializing latta.andh, CleaningStation, MapReroll, RimWar, Milk, RJW_Cum 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib][warn] Missing enum setting labels for enum MapReroll.MapRerollController+MapGeneratorMode 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MapReroll] Applied Configurable Maps compatibility layer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[VirtualClassOnLoad] Virtual Loadtime Class Starting! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Expectations Modifier] Modifying All Wealth Expectations Now! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Expectations Modifier] Successfully Modified All Wealth Expectations! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Expectations Modifier] Modifying All Expectations Mood Effects Now! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Expectations Modifier] Successfully Modified All Expectations Mood Effects! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Expectations Modifier] All Undesired Expectations Removed! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[VirtualClassOnLoad] Virtual Class Ended with 1 PostFixes.
+  RimWorld.Citrus.ExpectationsModifier 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[OgreStack]: Modify Stack Sizes Complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE is trying to create default parameter lists ... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+creating default parameter list for genes... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+582 default entities for genes created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+creating default parameter list for objects... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+5437 default entities for objects created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+creating default parameter list for turrets... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+83 default entities for turrets created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+...lists created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE is trying to apply modified parameters... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+no modifications for genes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Apparel_Parka modification loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+no modifications for lifestages 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+...done 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.4.3704 rev896, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.ScenPartDef named AT_Disable_SettlementGen 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to KCSG.StructureLayoutDef named Heyra_Structure_Stronghold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to KCSG.StructureLayoutDef named Heyra_Structure_Stronghold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.4.3704 rev896, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.3.3389 rev40, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.3.3389 rev40, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.3.3076 rev689, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.1.2587 rev830, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.1.2566 rev920, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Melee_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.0.2408 rev747, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.0.2408 rev747, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Configurable Maps] Correcting default values for mineables to their default values. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Configurable Maps] Correcting default values for Fertility, Water, and Mountain to their default values. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Configurable Maps] Using Map Settings:
+- ScatterRuinsSimple.countPer10kCellsRange = 0~3
+- ScatterShrines.countPer10kCellsRange = 0.119999997~0.25
+- SteamGeysers.countPer10kCellsRange = 0.699999988~1
+- AncientPipelineSection.countPer10kCellsRange = 0.25~0.5
+- AncientJunkClusters.countPer10kCellsRange = 0.200000003~0.5
+- MineableSteel.mineableScatterCommonality = 1
+- MineableSilver.mineableScatterCommonality = 0.1
+- MineableGold.mineableScatterCommonality = 0.07
+- MineableUranium.mineableScatterCommonality = 0.12
+- MineablePlasteel.mineableScatterCommonality = 0.05
+- MineableJade.mineableScatterCommonality = 0.065
+- MineableComponentsIndustrial.mineableScatterCommonality = 1
+- Z_MineableAmethyst.mineableScatterCommonality = 0.05
+- Z_MineableChalcedony.mineableScatterCommonality = 0.05
+- Z_MineableCitrine.mineableScatterCommonality = 0.05
+- Z_MineableGarnet.mineableScatterCommonality = 0.05
+- Z_MineableLapis.mineableScatterCommonality = 0.05
+- Z_MineableQuartz.mineableScatterCommonality = 0.05
+- Z_MineableSerpentine.mineableScatterCommonality = 0.05
+- Z_MineableTurquoise.mineableScatterCommonality = 0.05
+- VPE_EltexOre.mineableScatterCommonality = 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Textures precache took: 7 ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+HAR_Idhale_b has multiple CompPawnGizmo, duplicates has been deactivated. Please report this to the patch provider of [Aya]Idhale Race or CE team if the patch is integrated in CE. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+HAR_Littluna has multiple CompPawnGizmo, duplicates has been deactivated. Please report this to the patch provider of [Aya]Littluna Race or CE team if the patch is integrated in CE. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+HAR_Littluna_b has multiple CompPawnGizmo, duplicates has been deactivated. Please report this to the patch provider of [Aya]Littluna Race or CE team if the patch is integrated in CE. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not get new name (first rule pack: NamerDeityChristian) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not get new name (first rule pack: NamerDeityChristian) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to add pawn relation ExSpouse with self, pawn=Darklight 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Configurable Maps] No map comp animal, now using 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Configurable Maps] No map comp plant, now using 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 10)
+
+Unloading 1496 unused Assets to reduce memory usage. Loaded Objects now: 84951.
+Total: 1379.617600 ms (FindLiveObjects: 3.836400 ms CreateObjectMapping: 1.290200 ms MarkObjects: 1373.162100 ms  DeleteObjects: 1.328500 ms)
+
+Loaded file (Ideo) is from version 1.5.4243 rev947, we are running version 1.5.4297 rev1079. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.MemeDef named Hucow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.PreceptDef named Lactating_Essential 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.RitualPatternDef named FertilityRitual 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.RitualBehaviorDef named FertilityRitual 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find class CRIAOrgy.RitualOutcomeEffectWorker_Orgy while resolving node outcomeEffect. Trying to use RimWorld.RitualOutcomeEffectWorker instead. Full node: <outcomeEffect Class="CRIAOrgy.RitualOutcomeEffectWorker_Orgy"><def>FertilityRitualOutcome</def><compDatas><li Class="RitualOutcomeComp_DataThingPresence"><presentForTicks><keys /><values /></presentForTicks></li><li Class="RitualOutcomeComp_DataRoomStatCached" /></compDatas></outcomeEffect> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SaveableFromNode exception: System.ArgumentException: Can't load abstract class RimWorld.RitualOutcomeEffectWorker
+[Ref FC13C616]
+ at Verse.ScribeExtractor.SaveableFromNode[T] (System.Xml.XmlNode subNode, System.Object[] ctorArgs) [0x00125] in <69945a8ed6c540cf90b578de735e0605>:0 
+Subnode:
+<outcomeEffect Class="CRIAOrgy.RitualOutcomeEffectWorker_Orgy"><def>FertilityRitualOutcome</def><compDatas><li Class="RitualOutcomeComp_DataThingPresence"><presentForTicks><keys /><values /></presentForTicks></li><li Class="RitualOutcomeComp_DataRoomStatCached" /></compDatas></outcomeEffect> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.AbilityDef named Indoctrinate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ideoligion memes were null after loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ideoligion precepts were null after loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not do PostLoadInit on RimWorld.IdeoRoleInstance: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4E9C4FF9]
+ at RimWorld.Ability.get_verb () [0x00000] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at RimWorld.IdeoRoleInstance.ExposeData () [0x0004c] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.PostLoadIniter.DoAllPostLoadInits () [0x00032] in <69945a8ed6c540cf90b578de735e0605>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Generating PawnRenderNodeTagDef tag: Vagina 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Generating PawnRenderNodeTagDef tag: Anus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Generating PawnRenderNodeTagDef tag: Belly 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Generating PawnRenderNodeTagDef tag: Penis 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SizedApparel]: Generating PawnRenderNodeTagDef tag: PubicHair 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Saki Ayala), 0.4242616 -> 0.3503551. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Saki Ayala), 0.3476284 -> 0.5183156. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Saki Ayala), 0.3933672 -> 0.5652399. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Remi Chauvin), 0.3904802 -> 0.5495833. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Remi Chauvin), 0.3551458 -> 0.4099119. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Remi Chauvin), 0.2695437 -> 0.4613253. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Iskra Ayala), 0.3061166 -> 0.2679417. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Iskra Ayala), 0.3670368 -> 0.2441167. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Iskra Ayala), 0.3024658 -> 0.3524095. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Iskra Ayala), 0.3072119 -> 0.3376504. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Iskra Ayala), 0.2683309 -> 0.3754951. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Iskra Ayala), 0.3689103 -> 0.2790646. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Iskra Ayala), 0.2072019 -> 0.2809227. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Iskra Ayala), 0.2708579 -> 0.3343272. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Iskra Ayala), 0.2740498 -> 0.2991319. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Iskra Ayala), 0.2715577 -> 0.476492. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Iskra Ayala), 0.2075513 -> 0.4761322. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Iskra Ayala), 0.2782094 -> 0.4128594. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Estrada Chauvin), 0.5363346 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Estrada Chauvin), 0.4129953 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Estrada Chauvin), 0.6451866 -> 0.62. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Penis (Korwal 'Bomba' Ferrara), 0.552434 -> 0.3616816. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Korwal 'Bomba' Ferrara), 0.6161124 -> 0.5165325. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Penis (Korwal 'Bomba' Ferrara), 0.5411896 -> 0.6206701. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Korwal 'Bomba' Ferrara), 0.5242151 -> 0.4162298. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Penis (Korwal 'Bomba' Ferrara), 0.4859568 -> 0.5281121. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Korwal 'Bomba' Ferrara), 0.3475512 -> 0.5664907. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Penis (Korwal 'Bomba' Ferrara), 0.4241777 -> 0.4351814. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Korwal 'Bomba' Ferrara), 0.5020329 -> 0.553713. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Chikayo 'Kasuka' Tori), 0.5525751 -> 0.6224718. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Chikayo 'Kasuka' Tori), 0.669309 -> 0.514949. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Chikayo 'Kasuka' Tori), 0.4919464 -> 0.5367566. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Yomi Marai), 0.4755223 -> 0.4542486. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Yomi Marai), 0.3393274 -> 0.4944105. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Yomi Marai), 0.5877146 -> 0.5714126. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Penis (Ren 'Glasses' Blackrose), 0.7874672 -> 0.4219498. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Ren 'Glasses' Blackrose), 0.3554309 -> 0.4086465. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Penis (Ren 'Glasses' Blackrose), 0.4514322 -> 0.7790015. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Ren 'Glasses' Blackrose), 0.2987112 -> 0.2390763. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Penis (Ren 'Glasses' Blackrose), 0.4423472 -> 0.5413724. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Ren 'Glasses' Blackrose), 0.393099 -> 0.4834999. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Ren 'Glasses' Blackrose), 0.6744003 -> 0.7207929. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Ren 'Glasses' Blackrose), 0.01 -> 0.577568. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Ren 'Glasses' Blackrose), 0.6882451 -> 0.4291944. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Apparel Apparel_GasMask1020 tried removing hediff WearingGasMask from Glasses but could not find any 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Ferra Lunarius), 0.6385247 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Ferra Lunarius), 0.596156 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Ferra Lunarius), 0.4797903 -> 0.5573402. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Pansy Farrell), 0.3719651 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Pansy Farrell), 0.5241184 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Pansy Farrell), 0.3818266 -> 0.494794. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find any textures at Things/Pawn/Humanlike/Heads/ while constructing Multi(initPath=Things/Pawn/Humanlike/Heads/, color=RGBA(0.988, 0.925, 0.827, 1.000), colorTwo=RGBA(0.988, 0.925, 0.827, 1.000)) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Rutana Blades), 0.5189057 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Demon vagina (Rutana Blades), 0.4203986 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Demon anus (Rutana Blades), 0.5487314 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Hana Ayala), 0.5089843 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Hana Ayala), 0.5921516 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Hana Ayala), 0.3222728 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Starry Lothwyn), 0.56125 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Starry Lothwyn), 0.7414693 -> 0.61. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Starry Lothwyn), 0.5532787 -> 0.3800485. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Estelle Chauvin), 0.4347816 -> 0.4916803. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Estelle Chauvin), 0.6535059 -> 0.5787277. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Estelle Chauvin), 0.5843347 -> 0.56. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RandomElementByWeight with totalWeight=0 - use TryRandomElementByWeight. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Eddie 'Ed' Illustrious), 0.6540312 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Demon penis (Eddie 'Ed' Illustrious), 0.7136837 -> 1.01. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RandomElementByWeight with totalWeight=0 - use TryRandomElementByWeight. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Nonna Wright), 0.5115725 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Nonna Wright), 0.3973296 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Nonna Wright), 0.7167609 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Vagina (Ellis Lothwyn), 0.7688047 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Breasts (Ellis Lothwyn), 0.5223547 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW] DetectExternalSeverityChange: Anus (Ellis Lothwyn), 0.4930603 -> 0. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 10)
+UnloadTime: 0.196700 ms
+FileNotFoundException: Cannot resolve dependency to assembly because it has not been preloaded. When using the ReflectionOnly APIs, dependent assemblies must be pre-loaded or loaded on demand through the ReflectionOnlyAssemblyResolve event.
+
+ 
+(Filename:  Line: -1)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 94023.
+Total: 1532.549300 ms (FindLiveObjects: 3.115200 ms CreateObjectMapping: 1.418500 ms MarkObjects: 1527.758200 ms  DeleteObjects: 0.257100 ms)
+
+Initializing new game with mods:
+  - zetrith.prepatcher
+  - brrainz.harmony
+  - bs.fishery
+  - Ludeon.RimWorld
+  - bs.performance
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - RedMattis.BetterPrerequisites
+  - vanillaexpanded.backgrounds
+  - UnlimitedHugs.HugsLib
+  - seekiworksmod.no17
+  - JintuziLamian.Hairstyle.AFUWomenshairstyles
+  - latta.fsharp.core
+  - latta.petknowstrueyou
+  - imranfish.xmlextensions
+  - Nals.FacialAnimation
+  - Nals.FacialAnimationExperimentals
+  - erdelf.HumanoidAlienRaces
+  - RunneLatki.RabbieRaceMod
+  - CETeam.CombatExtended
+  - Keshash.AmmoVarietyShotgun
+  - aw.charged.arms
+  - Yuki.ApparelPatchforAyaraces
+  - SmashPhil.VehicleFramework
+  - rabiosus.vfautoparking
+  - RedMattis.BetterChildren
+  - madarauchiha.custommapsizes
+  - Fuu.BloodAnimations
+  - soulwolf.ch.BloodRose
+  - Devdisigdu.Bulk.Components
+  - Dubwise.Rimatomics
+  - glencoe2004.bulkrimatomics (incompatible version)
+  - CrashM.ColorCodedMoodBar.11
+  - sumghai.Replimat
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - OskarPotocki.VanillaVehiclesExpanded
+  - Samael.Vehicles
+  - brrainz.cameraplus
+  - Mlie.CentralizedClimateControl
+  - Owlchemist.CleanPathfinding
+  - navyseal5.CleaningStation
+  - Lke.Ideology.CoLovePartnerRelations
+  - Dubwise.DubsBadHygiene
+  - avilmask.CommonSense
+  - Damjdu.CryogenicGeneratorI
+  - Damjdu.CryogenicGeneratorII
+  - Nyan.CustomPawnGeneration
+  - Pillowesque.CustomPlaystylePresets
+  - chris.cutercatearreplacer
+  - CaesarV6.DamageIndicators
+  - VanillaExpanded.VFESecurity
+  - David.cheaper155mmshells (incompatible version)
+  - Spino.Megafauna
+  - spincrus.dinosauria
+  - ponpeco.DogRetexture
+  - biotexpans.core
+  - prkr.GeneTools
+  - her.DragonianGene
+  - Eggbed.DragonianRacePrime2.0Unofficial
+  - Mlie.DurableClothes
+  - SlimeSenpai.EndlessGrowth
+  - smartkar.enhancedvatlearning
+  - Citrus.ExpectationsModifier
+  - MengDe.FE3H.AshenWolvesHair
+  - MengDe.FE3H.BlackEaglesHair
+  - MengDe.FE3H.BlueLionsHair
+  - MengDe.FE3H.GoldenDeerHair
+  - MengDe.FE3H.MiscHair
+  - Crocodil.FoodPoisoningCures
+  - Aoba.Fortress.Industrial
+  - Aoba.Fortress.Industrial.Citadel
+  - freemapa.freewill
+  - denethor0.gainskillpassions
+  - zylle.Gemstones
+  - omgwtfbbq.genderSupremacyXtreme
+  - Farxmai2.GeneBanksExapnded
+  - DanielWedemeyer.GeneRipper
+  - Anonemous2.GenepackReprocessor
+  - ThatHitmann.GenevaChecklist
+  - ThatHitmann.GenevaChecklist.zh
+  - m00nl1ght.GeologicalLandforms
+  - ZH.m00nl1ght.GeologicalLandforms
+  - Gloomy.GloomyHairMk2 (incompatible version)
+  - void.charactereditor
+  - automatic.gradienthair
+  - void.gradientpack1
+  - Telefonmast.GraphicsSettings
+  - velc.HatsDisplaySelection
+  - Cassie.HiddenEyes
+  - leion247612.HigherHPower
+  - Tjet.LD.ImphileeXeno
+  - ordpus.logafterdeferror
+  - m00nl1ght.UnofficialUpdates.HugsLogPublisher
+  - ratys.madskills
+  - TheRealLemon.MapReroll
+  - goudaquiche.MoharFramework
+  - VAMV.MaruRaceMod
+  - MaruFA.Continued
+  - sluggandnil.mmcr
+  - slugg.mmcr
+  - mario1.3patch.metaldontburn
+  - Ayameduki.HARNearmare
+  - HahaAyaRaces.ApparelPatchCore
+  - HahaAyaRaces.ApparelPatchUtilities
+  - HahaAyaRaces.ApparelPatchVtwo
+  - Mlie.MoreFactionInteraction
+  - hahaha.MoreHairstylesforAR
+  - Andromeda.NiceHealthTab
+  - Yuki.NoHARHairsonHumans
+  - Doug.NoJobAuthors
+  - Vesper.NotMyFault
+  - Ogre.OgreStack
+  - Mehni.PickUpAndHaul
+  - ponpeco.PPHair
+  - spdskatr.projectrimfactory
+  - com.spdskatr.projectrimfactory.insanity
+  - ponpeco.PuppyRetexture
+  - Sandy.RPGStyleInventory.avilmask.Revamped
+  - FLASHPOINT55.RPGStyleLevelUpMod
+  - ratys.rtsolarflareshield
+  - jkviolet.rakkleracemode
+  - telardo.BetterGeneGraphicsFramework
+  - her.RakkleGene
+  - ReSplice.XOTR.Charmweavers
+  - vanillaracesexpanded.highmate
+  - vanillaracesexpanded.sanguophage
+  - RED.vanillaracesexpanded.ZH
+  - ZH.ReSplice.XOTR
+  - Lucifer.RealisticRooms
+  - RedMattis.Optimization
+  - Acruid.RepairBench
+  - sumghai.ReplimatMeals
+  - Kyrun.Reunion
+  - FS.ReviaRaceBiotech
+  - Cabbage.RimCities
+  - RWZH.ChinesePack.RimCities
+  - aRandomKiwi.RimSaves
+  - RimThunder.Core
+  - RimThunderTeams.RimThunder.DesertSabre
+  - RimThunderTeams.RimThunder.DragonAscend
+  - RimThunderTeams.RimThunder.FlyingChariot
+  - MYDE.AerocraftFramework
+  - Layla.RimThunder.GruppaKrovi
+  - RimThunderTeams.RimThunder.NortherngradLion
+  - Aoba.RimThunder.ROCA
+  - RimThunderTeams.RimThunder.TimeForward
+  - Torann.RimWar
+  - RWZH.ChinesePack.RimWar
+  - Dubwise.Rimefeller
+  - Rimsenal.Askbarn
+  - telardo.RomanceOnTheRim
+  - roolo.runandgun
+  - avilmask.SelfDyeing
+  - odysseylotus.seren
+  - odysseylotus.serenFA
+  - stm.ShellaBackgrounds
+  - pb3n.SimpleWarrants
+  - ZH.pb3n.SimpleWarrants
+  - PeteTimesSix.SimpleSidearms
+  - Jaxe.Bubbles
+  - JPT.speakup
+  - makabakaakawaka.StableCompatibility (incompatible version)
+  - PureMJ.MjRimMods.StorageRefillHysteresis
+  - Udon.SuperSizeBed
+  - Sxcher.Backgrounds
+  - Side1iner.TraitSlotsPlus
+  - oels.chooseyouroutfit
+  - localghost.transmog
+  - VanillaExpanded.VanillaBackstoriesExpanded
+  - VanillaExpanded.VBooksE
+  - shavius.vbookse.zh
+  - hourai.vanillahairsretex
+  - flangopink.VanillaXCOMLaserWeapons
+  - Murmur.WallLight
+  - Victor.WallsAreSolid
+  - Yuki.WeaponPatchforAyaraces
+  - RedMattis.BetterConversion
+  - asavikle.XML.Extensions.cn
+  - Thomas.HAR.hedffstatus
+  - Ayameduki.HARChaoura
+  - Ayameduki.HAREveliet
+  - Ayameduki.HARIdearn
+  - Ayameduki.HARIdhale
+  - Ayameduki.HARLittluna
+  - Ayameduki.HARNeclose
+  - Ayameduki.HARNexaga
+  - Ayameduki.HARQualeela
+  - Ayameduki.HARSaclean
+  - Ayameduki.HARSilkiera
+  - Ayameduki.HARSolark
+  - Ayameduki.HARXenoorca
+  - Ayarace.FacialAnimation
+  - Ayameduki.BOSSEnforcer
+  - Ayameduki.IdeaStoryteller
+  - Ayameduki.HARIdhaleEX
+  - Ayameduki.HARLittlunaEX
+  - Ayameduki.HARNearmareEX
+  - Ayameduki.HARNecloseUC
+  - Ayameduki.BOSSRequeen
+  - Ayameduki.HARSilkieraEX
+  - Ayameduki.HARSolarkEX
+  - Ayameduki.HARXenoorcaEX
+  - ZH.ChinesePack.Ayameduki
+  - Seigai.ChinesePack.HARSolark
+  - VanillaExpanded.VPsycastsE
+  - FrozenSnowFox.BetterAncientComplexLoot
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - Grizzlemethis.tickspersecond.RW
+  - CETeam.CombatExtendedGuns
+  - PeteTimesSix.ResearchReinvented
+  - Harkon.GunNut.CORE
+  - Harkon.GunNut.Chapter1
+  - Harkon.GunNut.Chapter2
+  - Harkon.GunNut.Community
+  - Harkon.GunNut.DesertTech
+  - Harkon.GunNut.FNSCAR
+  - Harkon.GunNut.KRISSVector
+  - Harkon.GunNut.KS23Shotgun
+  - Harkon.GunNut.SIGSauerNGSW
+  - ZH.Harkon.GunNut
+  - Mlie.KVConfigurableMaps
+  - lc.tammybee.selectablesculpturegraphic
+  - Nals.CustomPortraits
+  - CP.Rimdeed
+  - CP.RimmuNation.2.Clothing
+  - CP.RimmuNation.2.Security
+  - CP.RimmuNation.2.Weapons
+  - Devdesigner.Elves.Continued
+  - SevenColorType.Hyperionc
+  - SevenColorType.Hyperionc.FGirlE
+  - rim.job.world
+  - akiya82.bprf
+  - OTYOTY.SizedApparel
+  - MO.Size.RJW.Apparel
+  - VideNoir.Chillrjw
+  - c0ffee.rjw.events
+  - rjw.dirtytalk
+  - Vegapnk.MultipleOrgasm
+  - dord.nuditymattersmore
+  - abscon.privacy.please
+  - Euclideanandnil.crests
+  - shauaputa.lewdtrader
+  - ROBTRG.RJWAditionalRacePatches
+  - rjw.sexperience
+  - rjw.milk.humanoid
+  - rjw.menstruation
+  - Jaaldabaoth.rjw.menstruation.resources
+  - Stardust3D.RJW.PlasticSurgeries
+  - ASMR.RJW.RaceSupport
+  - rjw.sexperience.ideology
+  - rjw.VE_patches
+  - c0ffee.rimworld.animations
+  - Tory187.RJWAnimAddons.SeXtra2
+  - RJW.Sexpanded.Core
+  - RJW.Sexpanded.ReProduction
+  - rjw.unleashed.framework
+  - vegapnk.cumpilation
+  - Vegapnk.rjw.genes
+  - archersaiter.rjw.traits
+  - Euclidean.s16.core
+  - rjw.unleashed.gastronomy
+  - archersaiter.rjw.races.tribal
+  - rjw.cum
+  - rjw.FB
+  - rjw.FH
+  - rim.job.world.onahole.ext
+  - rim.job.world.onahole.ext.defeat.patch
+  - eltoro.rjw.menstruation.fluids
+  - Krkr.RocketMan
+  - NyaamZ.SA.AlienTextures
+  - OTYOTY.SizedApparel.head
+  - OTYOTY.SizedApparel.extended
+  - Teacher.UAP
+  - abscon.classic.animations.pack
+  - abscon.hide.name.tags
+  - Hawkeye32.Hawks.Anims 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Geological Landforms v1.7] Map generator context: TileId: 40039, Landforms: None, BiomeVariants: None, Topology: Inland, TopologyDirection: West (F) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Configurable Maps] OreLevel = 15. Was 15 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CE] Deflection for Instigator:Tek Target: DamageDef:Bite Weapon: has null verb, overriding AP. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CE] Deflection for Instigator:Tek Target: DamageDef:Bite Weapon: has null verb, overriding AP. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CE] Deflection for Instigator:Tek Target: DamageDef:Bite Weapon: has null verb, overriding AP. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CE] Deflection for Instigator:Tek Target: DamageDef:Bite Weapon: has null verb, overriding AP. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CE] Deflection for Instigator:Tek Target: DamageDef:Bite Weapon: has null verb, overriding AP. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CE] Deflection for Instigator:Tek Target: DamageDef:Bite Weapon: has null verb, overriding AP. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ShallowReservoirSeed == 0 Regenerating seeds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+bodysizes genes are active 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to calculate chance for mother with gender "Male". 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Saved World pawn with Ally trait to Reunion list: Rutana 'Rutana' Blades, age 21.83 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Saved World pawn with Ally trait to Reunion list: Pansy 'Pansy' Farrell, age 17.83 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Saved World pawn with Ally trait to Reunion list: Ferra 'Ferra' Lunarius, age 20.83 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Saved World pawn with Ally trait to Reunion list: Yomi 'Yomi' Marai, age 22.27 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Saved World pawn with Ally trait to Reunion list: Estrada 'Estrada' Chauvin, age 19.83 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Saved World pawn with Ally trait to Reunion list: Iskra 'Iskra' Ayala, age 15.83 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Saved World pawn with Ally trait to Reunion list: Remi 'Remi' Chauvin, age 16.83 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Saved World pawn with Ally trait to Reunion list: Saki 'Saki' Ayala, age 18.91 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Reunion] Ally Pawns: Rutana 'Rutana' Blades, Pansy 'Pansy' Farrell, Ferra 'Ferra' Lunarius, Yomi 'Yomi' Marai, Estrada 'Estrada' Chauvin, Iskra 'Iskra' Ayala, Remi 'Remi' Chauvin, Saki 'Saki' Ayala 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 100984.
+Total: 2113.776000 ms (FindLiveObjects: 3.674900 ms CreateObjectMapping: 1.631200 ms MarkObjects: 2108.331400 ms  DeleteObjects: 0.137400 ms)
+
+Free Will: adding free will precept, "flexible", to 遠古的教義 ideology. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Free Will: adding free will precept, "flexible", to 惡夢深淵 ideology. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Opened: Verse.StandardLetter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Detected missing giverClass in WorkGiverDef 'MYDE_AF_CE_ReloadTurrets' from mod 'Aerocraft Framework' for WorkTypeDef 'Hauling'. Disabling now to avoid further issues. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RIMWAR: [OFFTHREAD] error in Destination array was not long enough. Check destIndex and length, and the array's lower bounds at [Ref 9D3923DF]
+ at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x000da] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.Collections.Generic.List`1[T].CopyTo (T[] array, System.Int32 arrayIndex) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at <0x1aca8adbe80 + 0x001a5> <unknown method>
+ at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x00018] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+ at Verse.GenCollection+<InRandomOrder>d__9`1[T].MoveNext () [0x00035] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at <0x1aca8adbe80 + 0x002c9> <unknown method>
+ at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x00018] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+ at RimWar.Planet.WorldUtility.GetWorldObjectsInRange (System.Int32 from, System.Single range) [0x00049] in <373f2e1fe952461ea70b018443d2adaa>:0 
+ at RimWar.Planet.WorldComponent_PowerTracker.AttemptScoutOffMainThread (RimWar.RimWarData rwd, RimWorld.Planet.Settlement parentSettlement, RimWar.Planet.RimWarSettlementComp rwsComp, System.Boolean forcePlayerTown, System.Boolean forcePlayerCaravan, System.Boolean ignoreRestrictions, RimWar.Planet.WorldComponent_PowerTracker+ContextStorage context) [0x000c1] in <373f2e1fe952461ea70b018443d2adaa>:0 
+ at RimWar.Planet.WorldComponent_PowerTracker+<>c__DisplayClass74_0.<AttemptScoutMission>b__0 () [0x00012] in <373f2e1fe952461ea70b018443d2adaa>:0 
+ at RimWar.RocketTools.RocketTasker`1+RocketTask`1[T,T].RunOffMainThread () [0x00000] in <373f2e1fe952461ea70b018443d2adaa>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Root level exception in Update(): System.InvalidOperationException: Failed to find parent index in FishTable<RimWorld.Plant, System.Int32> for key: 'Plant_Grass38401', hashCode: '38401', value: '5', count: '10', bucket array length: '32', total tailing entries count: '2', known chain of tails:
+{ index: '3' key: 'Plant_Bush42637', hashCode: '42637', value: '1 }
+{ index: '5' key: 'System.Object', hashCode: '1', value: '0 (empty) }
+[Ref DB060370]
+ at FisheryLib.Collections.FishTable`2+ThrowHelper[TKey,TValue].ThrowFailedToFindParentInvalidOperationException (FisheryLib.Collections.FishTable`2[TKey,TValue] fishTable, System.Int32 childBucketIndex) [0x001ae] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].GetParentBucketIndex (System.Int32 childBucketIndex, System.Boolean throwOnFailure) [0x0001f] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].InsertAsTail (FisheryLib.Collections.FishTable`2+Entry[TKey,TValue]& entry, System.Int32 bucketIndex) [0x0002c] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].InsertEntryInternal (FisheryLib.Collections.FishTable`2+Entry[TKey,TValue]& entry, FisheryLib.Collections.FishTable`2+ReplaceBehaviour[TKey,TValue] replaceBehaviour) [0x000b5] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].InsertEntry (FisheryLib.Collections.FishTable`2+Entry[TKey,TValue]& entry, FisheryLib.Collections.FishTable`2+ReplaceBehaviour[TKey,TValue] replaceBehaviour, System.Boolean shifting) [0x00000] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].EmplaceWithTailsBackward (System.Int32 entryIndex) [0x0003b] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].RemoveInternal (TKey key, FisheryLib.Collections.FishTable`2+Entry[TKey,TValue]& removedEntry, System.Boolean checkValue, TValue value) [0x0007a] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].Remove (TKey key, TValue& value) [0x00000] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.IndexedFishSet`1[T].Remove (T item) [0x00000] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.IndexedFishSet`1[T].Remove (System.Object value) [0x00008] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at PerformanceFish.Listers.ThingsPrepatches.RemoveFromTypeList (Verse.ListerThings lister, Verse.Thing thing) [0x0003b] in <7a26545148044e5cb91c8c2d7d653ca0>:0 
+ at Verse.ListerThings.Remove (Verse.Thing t) [0x0006f] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.RegionListersUpdater.DeregisterInRegions (Verse.Thing thing, Verse.Map map) [0x0003a] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Thing.DeSpawn (Verse.DestroyMode mode) [0x00079] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - TRANSPILER SmashPhil.VehicleFramework: IEnumerable`1 Vehicles.VehiclePathing:DeSpawnAndUpdateVehicleRegionsTranspiler(IEnumerable`1 instructions)
+     - TRANSPILER OskarPotocki.VanillaFurnitureExpanded.Security: IEnumerable`1 VFESecurity.Patch_Thing+DeSpawn:Transpiler(IEnumerable`1 instructions)
+     - PREFIX CombatExtended.HarmonyCE: Void CombatExtended.HarmonyCE.Harmony_Thing_DeSpawn:Prefix(Thing __instance)
+     - PREFIX OskarPotocki.VanillaPsycastsExpanded: Void VanillaPsycastsExpanded.GenRadialCached:DeSpawn_Prefix(Thing __instance)
+ at Verse.ThingWithComps.DeSpawn (Verse.DestroyMode mode) [0x0000d] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - PREFIX com.Replimat.patches: Void Replimat.Harmony_ThingWithComps_DeSpawn:Prefix(ThingWithComps __instance)
+ at RimWorld.Plant.DeSpawn (Verse.DestroyMode mode) [0x00012] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Thing.Destroy (Verse.DestroyMode mode) [0x00092] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - PREFIX SmashPhil.VehicleFramework: Void Vehicles.Combat:ProjectileMapToWorld(Thing __instance, DestroyMode mode)
+ at Verse.ThingWithComps.Destroy (Verse.DestroyMode mode) [0x00007] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Thing.Kill (System.Nullable`1[T] dinfo, Verse.Hediff exactCulprit) [0x00000] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.ThingWithComps.Kill (System.Nullable`1[T] dinfo, Verse.Hediff exactCulprit) [0x00024] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at RimWorld.Plant.Kill (System.Nullable`1[T] dinfo, Verse.Hediff exactCulprit) [0x00074] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.DamageWorker.Apply (Verse.DamageInfo dinfo, Verse.Thing victim) [0x00246] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - PREFIX CombatExtended.HarmonyCE: Boolean CombatExtended.HarmonyCE.Harmony_DamageWorker_Apply:Prefix(DamageWorker __instance, DamageInfo dinfo, Thing victim)
+ at Verse.Thing.TakeDamage (Verse.DamageInfo dinfo) [0x002f7] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - TRANSPILER Amnabi.Knockback: IEnumerable`1 PawnKnockback.AbsorbDamagePatch:Transpiler(ILGenerator generator, IEnumerable`1 instructions)
+     - PREFIX OskarPotocki.VFECore: Void AnimalBehaviours.Patch_TakeDamage:Prefix(Thing __instance, DamageInfo dinfo)
+     - PREFIX RedMattis.BetterPrerequisites: Void BigAndSmall.TakeDamagePatch:Prefix(Thing __instance, DamageInfo& dinfo)
+     - POSTFIX CombatExtended.HarmonyCE: Void CombatExtended.HarmonyCE.PatchCETakeDamage:Postfix(Thing __instance, DamageResult __result)
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.Patch_Thing_TakeDamage:Postfix(Thing __instance, DamageInfo dinfo)
+     - POSTFIX com.CaesarV6.DamageMotes.Patch: Void DamageMotes.DamageMotes_Patch:Postfix(DamageInfo dinfo, Thing __instance, DamageResult __result)
+     - FINALIZER DragonianPrime2.0UnofficialHarmonyPatch: Void DP2Unofficial.DP2Unofficial_TakeDamagePatch:Finalizer(Thing& __instance, DamageInfo& dinfo, DamageResult __result)
+ at RimWorld.Plant.TickLong () [0x00148] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.TickList.Tick () [0x000d5] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.TickManager.DoSingleTick () [0x00096] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - TRANSPILER Krkr.RocketMan: IEnumerable`1 RocketMan.Patches.TickManager_DoSingleTick_Patch:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+     - PREFIX Krkr.RocketMan: Void RocketMan.Patches.TickManager_DoSingleTick_Context_Patch:Prefix()
+     - PREFIX OskarPotocki.VFECore: Void VFECore.DoSingleTick_Patch:Prefix(Stopwatch& __state)
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.DoSingleTick_Patch:Postfix(Stopwatch __state)
+     - POSTFIX jpt.speakup: Void SpeakUp.TickManager_DoSingleTick:Postfix()
+     - POSTFIX kyrun.mod.reunion: Void Kyrun.Reunion.HarmonyPatches+TickManager_DoSingleTick:Postfix(TickManager __instance)
+ at Verse.TickManager.TickManagerUpdate () [0x0006f] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Game.UpdatePlay () [0x00032] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - POSTFIX Krkr.RocketMan: Void RocketMan.Patches.Game_UpdatePlay_Patch:Postfix()
+     - POSTFIX net.pardeike.rimworld.mod.camera+: Void CameraPlus.Game_UpdatePlay_Patch:Postfix()
+ at Verse.Root_Play.Update () [0x00032] in <69945a8ed6c540cf90b578de735e0605>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Root level exception in Update(): System.InvalidOperationException: Tried to emplace empty bucket
+[Ref 9FFBB6E8]
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].EmplaceWithTailsBackward (System.Int32 entryIndex) [0x00009] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].RemoveInternal (TKey key, FisheryLib.Collections.FishTable`2+Entry[TKey,TValue]& removedEntry, System.Boolean checkValue, TValue value) [0x0007a] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.FishTable`2[TKey,TValue].Remove (TKey key, TValue& value) [0x00000] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.IndexedFishSet`1[T].Remove (T item) [0x00000] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at FisheryLib.Collections.IndexedFishSet`1[T].Remove (System.Object value) [0x00008] in <a3e8b53a325844e98f60ef692520ce62>:0 
+ at PerformanceFish.Listers.ThingsPrepatches.RemoveFromTypeList (Verse.ListerThings lister, Verse.Thing thing) [0x0003b] in <7a26545148044e5cb91c8c2d7d653ca0>:0 
+ at Verse.ListerThings.Remove (Verse.Thing t) [0x0006f] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.RegionListersUpdater.DeregisterInRegions (Verse.Thing thing, Verse.Map map) [0x0003a] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Thing.DeSpawn (Verse.DestroyMode mode) [0x00079] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - TRANSPILER SmashPhil.VehicleFramework: IEnumerable`1 Vehicles.VehiclePathing:DeSpawnAndUpdateVehicleRegionsTranspiler(IEnumerable`1 instructions)
+     - TRANSPILER OskarPotocki.VanillaFurnitureExpanded.Security: IEnumerable`1 VFESecurity.Patch_Thing+DeSpawn:Transpiler(IEnumerable`1 instructions)
+     - PREFIX CombatExtended.HarmonyCE: Void CombatExtended.HarmonyCE.Harmony_Thing_DeSpawn:Prefix(Thing __instance)
+     - PREFIX OskarPotocki.VanillaPsycastsExpanded: Void VanillaPsycastsExpanded.GenRadialCached:DeSpawn_Prefix(Thing __instance)
+ at Verse.ThingWithComps.DeSpawn (Verse.DestroyMode mode) [0x0000d] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - PREFIX com.Replimat.patches: Void Replimat.Harmony_ThingWithComps_DeSpawn:Prefix(ThingWithComps __instance)
+ at RimWorld.Plant.DeSpawn (Verse.DestroyMode mode) [0x00012] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Thing.Destroy (Verse.DestroyMode mode) [0x00092] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - PREFIX SmashPhil.VehicleFramework: Void Vehicles.Combat:ProjectileMapToWorld(Thing __instance, DestroyMode mode)
+ at Verse.ThingWithComps.Destroy (Verse.DestroyMode mode) [0x00007] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Thing.Kill (System.Nullable`1[T] dinfo, Verse.Hediff exactCulprit) [0x00000] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.ThingWithComps.Kill (System.Nullable`1[T] dinfo, Verse.Hediff exactCulprit) [0x00024] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at RimWorld.Plant.Kill (System.Nullable`1[T] dinfo, Verse.Hediff exactCulprit) [0x00074] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.DamageWorker.Apply (Verse.DamageInfo dinfo, Verse.Thing victim) [0x00246] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - PREFIX CombatExtended.HarmonyCE: Boolean CombatExtended.HarmonyCE.Harmony_DamageWorker_Apply:Prefix(DamageWorker __instance, DamageInfo dinfo, Thing victim)
+ at Verse.Thing.TakeDamage (Verse.DamageInfo dinfo) [0x002f7] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - TRANSPILER Amnabi.Knockback: IEnumerable`1 PawnKnockback.AbsorbDamagePatch:Transpiler(ILGenerator generator, IEnumerable`1 instructions)
+     - PREFIX OskarPotocki.VFECore: Void AnimalBehaviours.Patch_TakeDamage:Prefix(Thing __instance, DamageInfo dinfo)
+     - PREFIX RedMattis.BetterPrerequisites: Void BigAndSmall.TakeDamagePatch:Prefix(Thing __instance, DamageInfo& dinfo)
+     - POSTFIX CombatExtended.HarmonyCE: Void CombatExtended.HarmonyCE.PatchCETakeDamage:Postfix(Thing __instance, DamageResult __result)
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.Patch_Thing_TakeDamage:Postfix(Thing __instance, DamageInfo dinfo)
+     - POSTFIX com.CaesarV6.DamageMotes.Patch: Void DamageMotes.DamageMotes_Patch:Postfix(DamageInfo dinfo, Thing __instance, DamageResult __result)
+     - FINALIZER DragonianPrime2.0UnofficialHarmonyPatch: Void DP2Unofficial.DP2Unofficial_TakeDamagePatch:Finalizer(Thing& __instance, DamageInfo& dinfo, DamageResult __result)
+ at RimWorld.Plant.TickLong () [0x00148] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.TickList.Tick () [0x000d5] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.TickManager.DoSingleTick () [0x00096] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - TRANSPILER Krkr.RocketMan: IEnumerable`1 RocketMan.Patches.TickManager_DoSingleTick_Patch:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+     - PREFIX Krkr.RocketMan: Void RocketMan.Patches.TickManager_DoSingleTick_Context_Patch:Prefix()
+     - PREFIX OskarPotocki.VFECore: Void VFECore.DoSingleTick_Patch:Prefix(Stopwatch& __state)
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.DoSingleTick_Patch:Postfix(Stopwatch __state)
+     - POSTFIX jpt.speakup: Void SpeakUp.TickManager_DoSingleTick:Postfix()
+     - POSTFIX kyrun.mod.reunion: Void Kyrun.Reunion.HarmonyPatches+TickManager_DoSingleTick:Postfix(TickManager __instance)
+ at Verse.TickManager.TickManagerUpdate () [0x0006f] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Game.UpdatePlay () [0x00032] in <69945a8ed6c540cf90b578de735e0605>:0 
+     - POSTFIX Krkr.RocketMan: Void RocketMan.Patches.Game_UpdatePlay_Patch:Postfix()
+     - POSTFIX net.pardeike.rimworld.mod.camera+: Void CameraPlus.Game_UpdatePlay_Patch:Postfix()
+ at Verse.Root_Play.Update () [0x00032] in <69945a8ed6c540cf90b578de735e0605>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
